@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff0f5;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    background-image: url(—Pngtree—valentines\ day\ pink\ love\ background_1998394.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+section {
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: #ff69b4;
+    margin-bottom: 20px;
+    font-size: 40px
+}
+h2 {
+    color: #ff1493;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+p {
+    margin-bottom: 15px;
+    font-size: 34px;
+    font-style: italic;
+}
+footer {
+    text-align: right;
+    font-size: 24px;
+    margin-top: 40px;
+    font-weight: bold;
+    color: #ff69b4;
+}
